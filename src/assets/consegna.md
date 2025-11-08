@@ -1,7 +1,7 @@
 repo: react-form
 
 Esercizio
-Milestone 1
+X Milestone 1
 Creare una pagina che visualizzi una lista di articoli, mostrandone solo il titolo.
 
 Milestone 2
